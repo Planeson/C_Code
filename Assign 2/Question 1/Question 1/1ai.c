@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("yay");
+	void f(int* n) {
+		return 0;
+	}
 }
